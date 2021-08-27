@@ -2,8 +2,8 @@ modules:
     index:
         name: Workshop Overview
         exit_sign: Start Workshop
-    labs/00_tanzu_env_overview:
-        name: Tanzu Environment Overview        
+    # labs/00_tanzu_env_overview:
+    #     name: Tanzu Environment Overview        
     # labs/01_scg_on_K8_overview:
     #     name: Spring Cloud Gateway on K8 Overview
     # labs/02_scg_operator:
