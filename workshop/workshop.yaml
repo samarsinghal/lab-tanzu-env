@@ -3,13 +3,5 @@ name: Kubernetes Fundamentals
 modules:
     activate:
     - index
-    # - labs/00_tanzu_env_overview
-    # - labs/01_scg_on_K8_overview
-    # - labs/02_scg_operator
-    # - labs/03_configure_scg_instance
-    # - labs/04_configure_scg_routes
-    # - labs/05_predicates_and_filters
-    # - labs/06_animal-rescue
-    # - labs/07_api_portal
-    # - labs/08_configure_api_portal
+    - ../../scenarios/operator/sc01-tc01
     - finish
