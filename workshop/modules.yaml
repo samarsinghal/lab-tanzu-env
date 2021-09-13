@@ -2,24 +2,8 @@ modules:
     index:
         name: Workshop Overview
         exit_sign: Start Workshop
-    scenarios/operator/sc01-tc01:
-        name: sc01-tc01       
-    # labs/01_scg_on_K8_overview:
-    #     name: Spring Cloud Gateway on K8 Overview
-    # labs/02_scg_operator:
-    #     name: Spring Cloud Gateway Operator    
-    # labs/03_configure_scg_instance:
-    #     name: Gateway Instance Configuration
-    # labs/04_configure_scg_routes:
-    #     name: Route Configuration
-    # labs/05_predicates_and_filters:
-    #     name: Filters/Predicates
-    # labs/06_animal-rescue:
-    #     name: Deploy Animal Rescue App
-    # labs/07_api_portal:
-    #     name: API Portal
-    # labs/08_configure_api_portal:
-    #     name: Configure Api Portal
+    labs/testcase:
+        name: Test Case       
     finish:
         name: Workshop Summary
         exit_sign: Finish Workshop
