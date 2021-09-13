@@ -3,5 +3,5 @@ name: Kubernetes Fundamentals
 modules:
     activate:
     - index
-    - labs/sc01-tc01
+    - scenarios/operator/sc01-tc01
     - finish
